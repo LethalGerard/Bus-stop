@@ -11,5 +11,5 @@ void appInit()
 
 void appRun()
 {
-    if (WiFiManager::reconnectIfNeeded() == false) return;
+    if (!wifiManager.reconnectIfNeeded()) return;
 }
