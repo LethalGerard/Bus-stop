@@ -1,0 +1,2 @@
+ESP32 Live Bus Schedule
+This is a hands-on learning project focusing on C++, API integration, and hardware. By connecting an ESP32 to a public transit API, this device pulls the latest departure times and formats them neatly onto an OLED display. Perfect for a quick glance before leaving the house!
